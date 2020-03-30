@@ -2,11 +2,12 @@
 
 This is the most simple Flutter Material app in the world, built for educational purposes.
 
-![Summer app by @tailorvj screenshot](screenshots/summer-home.png)
+
+<img src="screenshots/summer-home.png" width="200px" alt="Summer app by @tailorvj screenshot">
 
 It loads an image in the center of the home screen and lets you set the app icon using the flutter_launcher_icons package. 
 
-![Sign Up 5 by Murat Kalkavan](assets/images/sunup.png)
+<img src="assets/images/sunup.png" width="200px" alt="Sign Up 5 by Murat Kalkavan">
 
 The illustraion is by Murat Kalkavan and downloaded from https://icons8.com/ouch/illustration/sign-up-5
 
@@ -14,7 +15,7 @@ Things to do to make it your own
 
 * Replace /assets/icon/icon.png with your own 432x432 pixel icon. You have a template [icon.xcf](/assets/icon/icon.xcf) (GIMP file) under /assets/icon/.
 
-![Summer app icon 432x432 pixels](assets/icon/icon.png)
+<img src="assets/icon/icon.png" width="96px" alt="Summer app icon 432x432 pixels">
 
 * Build Android and iOS app icons. This uses the flutter_launcher_icons package. Run The following commands in the terminal: 
 
